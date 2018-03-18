@@ -96,7 +96,7 @@ func check_url(host string, sig string) {
     if i < len(pages) && pages[i] == hash2 {
       //print("!!! [", response.StatusCode, "] ", url, " ", hash2)
     } else {
-      print("!!! [", response.StatusCode, "] ", url, " new ", hash2 ,"\n")
+      print("[", response.StatusCode, "] ", url, " new ", hash2 ,"\n")
       pages = append(pages, hash2)
       if len(bs) > 200 {
         print(bs[0:200])
@@ -104,6 +104,7 @@ func check_url(host string, sig string) {
         print(bs)
       }
       print("\n")
+      print("-------------------\n")
     }
     return
   }
