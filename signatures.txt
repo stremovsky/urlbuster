@@ -595,6 +595,7 @@ admrev/.ftppass
 adobe
 adodb
 a_domlog.nsf
+ADOPTERS.md
 adovbs.inc
 adr.htm
 ads
@@ -717,6 +718,7 @@ analog/
 analog.html
 analyse
 analysis
+analysis_options.yaml
 analytics
 analytics.php
 and
@@ -2025,6 +2027,7 @@ chrome
 ChromestyleField.php
 chubb.xml
 c-h.v2.php
+ci
 cidr.txtа
 cihshell_fix.php
 cinema
@@ -2033,6 +2036,7 @@ circle.yml
 cirronetlogo.gif
 cisco
 cisweb
+citests
 cities
 citrix
 citrix/
@@ -2193,6 +2197,7 @@ codecs
 .codekit-cache
 codemirror.php
 CODE_OF_CONDUCT.md
+CODEOWNERS
 codepages
 codes
 code-style.pl
@@ -2482,6 +2487,7 @@ configurator
 configure
 configure/
 configure.ac
+configure.py
 configure.scan
 config.w32
 config.xml
@@ -5572,6 +5578,7 @@ etc/hosts
 etc/passwd
 etcpasswd/
 etc/shadow
+Ethereum
 ethics
 eu
 eudora.ini
@@ -5743,6 +5750,7 @@ family
 fancybox
 faq
 FAQ
+FAQ.md
 faqs
 FAQ.wiki.md
 fashion
@@ -6318,6 +6326,7 @@ gitignore.php
 .git/index
 .gitk
 .gitkeep
+.gitlab-ci.yml
 gitlog
 .git/logs/
 .git/logs/HEAD
@@ -6465,6 +6474,7 @@ gui
 ~gui
 guide
 guidelines
+GUIDELINES.md
 guides
 gulpfile.babel.js
 gulpfile.js
@@ -7037,6 +7047,7 @@ index.php?cat=%2527%20UNION%20SELECT%20CONCAT(CHAR(58),user_pass,CHAR(58),user_l
 index.php?cat=999%20UNION%20SELECT%20null,CONCAT(CHAR(58),user_pass,CHAR(58),user_login,CHAR(58)),null,null,null%20FROM%20wp_users/*
 index.php?cat_id
 index.php/component/users/?task=registration.register
+index.php?debug=123
 index.php?exact=1&sentence=1&s=%b3%27)))/**/AND/**/ID=-1/**/UNION/**SELECT**/1,2,3,4,5,user_pass,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24/**/FROM/**/wp_users%23
 index.php?option=com_users&task=user.register
 index.php?q=/user/login
@@ -7218,6 +7229,7 @@ invoices
 invoker/
 invoker/JMXInvokerServlet
 invoker/readonly
+ion
 ioncube
 io.pl
 iOSInjectionProject/
@@ -8540,6 +8552,8 @@ mod_version.php
 mod_whosonline.php
 mod_wrapper.php
 mojo
+monero
+Monero
 money
 mongo/
 monitor
@@ -10420,6 +10434,7 @@ relations.php
 release
 Release/
 RELEASE_HELP.txt
+RELEASE.md
 RELEASE_NOTES.txt
 release.properties
 releases
@@ -10793,6 +10808,7 @@ screen
 screen.php
 screens
 screenshot
+screenshot.jpg
 screenshot.png
 screenshots
 screenshots/
@@ -10915,6 +10931,7 @@ security/
 Security
 securitybug
 security.log
+SECURITY.md
 seed
 sef.php
 select
@@ -12225,6 +12242,7 @@ themes/classic/views/
 themes.php
 themes/README.txt
 thickbox
+third_party
 third-party
 this
 This directory contains globally useful gitignores,
@@ -12579,6 +12597,8 @@ unicode.php
 uninstall
 union
 uniqueid.php
+unitest
+unitests
 unix
 unix/
 unknown/
