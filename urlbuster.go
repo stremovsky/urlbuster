@@ -38,7 +38,7 @@ import (
 
 var pages = []string{}
 var cookieJar, _ = cookiejar.New(nil)
-var extentions = []string{"txt", "info", "tar", "tar.gz", "tgz", "zip", "rar", "pdf", "mdb", "pdf", "db", "mat", "maq", "mdf", "mde", "accde", "accdb", "mdw", "sql", "log", "old", "backup", "db2", "sqlite", "sqlitedb", "ckp", "sqlite3", "gdb", "wdb", "dbs", "xml"}
+var extentions = []string{"txt", "info", "tar", "tar.gz", "tgz", "zip", "rar", "pdf", "mdb", "pdf", "db", "mat", "maq", "mdf", "mde", "accde", "accdb", "mdw", "sql", "log", "old", "backup", "db2", "sqlite", "sqlitedb", "ckp", "sqlite3", "gdb", "wdb", "dbs", "xml", "7z"}
 
 func read_signatures(filename string) []string {
   content, err := ioutil.ReadFile(filename)

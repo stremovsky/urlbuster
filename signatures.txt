@@ -783,17 +783,28 @@ api/2/nginx?fields=version,build
 apibuild.pyc
 apicall
 api.conf
+api/dir
+api/dump
 api/error_log
 apigility/api/module.enable
 api.go
+api/help
 api.json
+api/ls
 api/module.enable
 api.php
 api.proto
 api.py
+api/request
 apis
+api/send
 api/site.getsites
+api/stats
+api/ver
+api/version
 api.xml
+api.yaml
+api.yml
 apk
 apktool.jar
 apl
@@ -7412,6 +7423,8 @@ jspShell.jsp
 JspWebshell 1.2.jsp
 jsr
 jsso
+js-src/
+js-src/lib
 js/swfupload/swfupload_f9.swf
 js/swfupload/swfupload.swf
 js/tiny_mce/
@@ -8911,6 +8924,7 @@ ntopic
 ntsync45.nsf
 .ntvs_analysis.dat
 nude
+nuget
 nuke
 nul
 null
@@ -10692,6 +10706,7 @@ s1
 .s3backupstatus
 sa
 sa2.php
+sache.json
 safe
 safety
 safver.php
@@ -10834,6 +10849,7 @@ scripts/samples/search/webhits.exe
 scripts/setup.php
 scripts/tools/getdrvs.exe
 scripts/tools/newdsn.exe
+scsc
 sc_webcat/
 sd
 sd/
@@ -11631,6 +11647,7 @@ Stats
 stats/awstats.pl
 stats-bin-p/
 statscollection.php
+stats/counts.json
 stats/grafana.ini
 statshistory
 stats.html
