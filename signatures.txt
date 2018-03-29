@@ -932,6 +932,7 @@ apps/
 apps/acs-commons/sightly/templates/dhlm.html
 appsec/
 appserver
+appserver.yml
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
 AppsLocalLogin
@@ -8678,6 +8679,7 @@ myblog
 mycalendar
 mycategories.aspx
 mycgi
+my.cnf
 my-components
 myfaces
 _mygallery
@@ -10622,6 +10624,7 @@ robots.txt.dist
 .rocketeer/
 role
 roles
+roles/
 roller
 roman.py
 room
@@ -12461,6 +12464,7 @@ trans
 transaction
 transactions
 transaction-service.xml
+transactions.sql
 transcode_wrapper.php
 transfer
 transfer/
@@ -13623,6 +13627,7 @@ web_serial.pl
 webserver
 .web-server-pid
 webServers.xml
+webserver.yml
 webservice
 webservices
 webservice_test.py
