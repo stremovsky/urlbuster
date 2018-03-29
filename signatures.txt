@@ -1200,6 +1200,7 @@ backdoor
 backend
 backend/
 backend-production.yaml
+backend.yml
 background
 Backgroundfill.php
 backgrounds
@@ -4688,6 +4689,7 @@ dbutil
 dbws-builder.xml
 dbws.xml
 db.xml
+db.yml
 dc
 dcforum
 dcforum/
@@ -11035,6 +11037,7 @@ services-1.0.xsd
 services.yml
 service.test/
 service.xml
+service.yml
 servicio/
 servicios
 servicios/
@@ -11342,6 +11345,7 @@ siteupdate/
 site-users.php
 site.xml
 site.yaml
+site.yml
 site.zip
 sized/
 sk
