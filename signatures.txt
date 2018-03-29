@@ -742,7 +742,9 @@ anon
 anon_ftp
 anonymous
 ansi
+ansible1.yml
 ansible.cfg
+ansible.yml
 answer
 answers
 answers/error_log
@@ -947,6 +949,7 @@ app/vendor-src
 appveyor.yml
 app/views/home/index.html.erb
 app/views/layouts/application.html.erb
+app.yml
 apr
 apt
 .apt_generated/
@@ -4653,6 +4656,7 @@ DBClasses.inc
 db_connect
 db.csv
 db/development.sqlite3
+dbdump.sql
 dbfix/
 db-full.mysql
 dbg
@@ -9711,6 +9715,7 @@ platform.php
 platz_login
 platz_login/
 play
+playbook1.yml
 playbook.yml
 play-cache
 player
@@ -11013,6 +11018,7 @@ server-status/
 server-status/?refresh=5
 server.txt
 server.xml
+server.yml
 service
 service/
 service.asmx
