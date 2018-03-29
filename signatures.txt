@@ -947,6 +947,7 @@ app/unschedule.bat
 app/uploads
 app/vendor
 app/vendor-src
+.appveyor.yml
 appveyor.yml
 app/views/home/index.html.erb
 app/views/layouts/application.html.erb
@@ -5557,6 +5558,7 @@ eshop
 .eslintcache
 .eslintignore
 .eslintrc
+.eslintrc.js
 .eslintrc.json
 esp
 espanol
@@ -7403,6 +7405,7 @@ js
 _js
 js/
 jsa/
+.jsbeautifyrc
 jscript
 jscript/
 jscripts
@@ -9286,6 +9289,7 @@ panel.php
 paper
 papers
 ParamConverter
+params.json
 params.php
 parent_category.php
 parse
@@ -10442,9 +10446,11 @@ relation.php
 relations.php
 release
 Release/
+RELEASE_CHECKLIST.md
 RELEASE_HELP.txt
 RELEASE.md
 RELEASE_NOTES.txt
+RELEASE_PROCESS.md
 release.properties
 releases
 release.version
@@ -10627,6 +10633,8 @@ robots.txt.dist
 role
 roles
 roles/
+roles/basic/tasks/main.yml
+roles/common/tasks/main.yml
 roller
 roman.py
 room
@@ -13293,6 +13301,7 @@ verifyftpsettings.php
 version
 .version
 VERSION
+VERSIONING.md
 version.php
 Version.php
 versions.php
