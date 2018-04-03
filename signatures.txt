@@ -933,6 +933,7 @@ apps/acs-commons/sightly/templates/dhlm.html
 appsec/
 appserver
 appserver.yml
+appsetings.json
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
 AppsLocalLogin
@@ -6172,6 +6173,7 @@ fun
 fun/
 func
 func/
+func.go
 funcs
 function
 function/
@@ -6184,6 +6186,7 @@ functions_main.inc
 functions.php
 functions.wp-scripts.php
 functions.wp-styles.php
+func.yaml
 fund
 funding
 funds
@@ -6550,6 +6553,7 @@ health
 Health
 healthcare
 hello
+hello.js
 hello.php
 helloworld
 help
@@ -8171,6 +8175,7 @@ maintenance.php
 maintenance/test2.php
 maintenance/test.php
 MAINTENERS.txt
+main.yaml
 main.yml
 majordomo/
 makefile
@@ -11016,6 +11021,7 @@ server-info/
 server-info.php
 server.js
 server.key
+serverless
 server.log
 server.php
 Server.php
@@ -11469,6 +11475,7 @@ sourcebans/
 source_gen
 source_gen.caches
 source/inspector.html
+source.js
 source.php
 Source.php
 sources
