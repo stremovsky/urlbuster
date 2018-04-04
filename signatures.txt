@@ -787,6 +787,7 @@ api/2/nginx?fields=version,build
 apibuild.pyc
 apicall
 api.conf
+api/datastore
 api/dir
 api/dump
 api/error_log
@@ -804,6 +805,8 @@ apis
 api/send
 api/site.getsites
 api/stats
+api_test.php
+api_test.sh
 api/ver
 api/version
 api.xml
@@ -824,6 +827,7 @@ app/assets/javascripts/application.js
 app/assets/stylesheets/application.css
 _app_bin/
 app/bin
+app/bolt.db
 app/bootstrap.php.cache
 app_browser
 app_browsers
@@ -953,6 +957,7 @@ appveyor.yml
 app/views/home/index.html.erb
 app/views/layouts/application.html.erb
 app.yml
+app.zip
 apr
 apt
 .apt_generated/
@@ -1493,6 +1498,8 @@ body.php
 bofh
 boiler
 boilerplate
+bold.db
+bolt.db
 bonus
 bonuses
 book
@@ -2039,6 +2046,7 @@ cidr.txtа
 cihshell_fix.php
 cinema
 CipherInterface.php
+.circleci/config.yml
 circle.yml
 cirronetlogo.gif
 cisco
@@ -2203,6 +2211,7 @@ codecs
 .codeintel
 .codekit-cache
 codemirror.php
+code-of-conduct.md
 CODE_OF_CONDUCT.md
 CODEOWNERS
 codepages
@@ -2528,6 +2537,8 @@ connectors
 console
 console/
 console/base/config.json
+console.error
+console.log
 console/payments/config.json
 constant
 constants
@@ -4613,6 +4624,11 @@ dataSources.xml
 datasource.xml
 data.sql
 data.sqlite
+datastore.db
+datastore.go
+datastore.mdb
+datastore.php
+datastore.sql
 DATA.TAG
 data/tmp/
 data.tsv
@@ -4692,6 +4708,7 @@ dbws-builder.xml
 dbws.xml
 db.xml
 db.yml
+db.zip
 dc
 dcforum
 dcforum/
@@ -6174,6 +6191,7 @@ fun/
 func
 func/
 func.go
+func.js
 funcs
 function
 function/
@@ -6385,6 +6403,7 @@ gmail.php
 gnv13.php
 go
 goaway
+Godeps
 gold
 golf
 gone
@@ -6401,6 +6420,7 @@ google/protobuf/api.proto
 google-services.json
 google_sitemap
 google.txt
+Gopkg.toml
 goto
 government
 gp
@@ -6569,6 +6589,7 @@ helper.php
 Helper.php
 helpers
 helpers.inc
+helpers.sh
 help.json
 help.php
 Help.php
@@ -8449,6 +8470,9 @@ mobi
 mobil
 mobile
 mock
+mock.asp
+mock.db
+mock.php
 mod
 mod/
 modalassociation.php
@@ -9203,6 +9227,7 @@ OWA/
 owl
 owners
 owners/
+OWNERS
 ows
 ows-bin
 ows-bin/
@@ -9368,6 +9393,7 @@ Path.php
 Pathway.php
 patterns.php
 pay
+payload.json
 payment
 payment/
 Payment/
@@ -10000,6 +10026,7 @@ private.key
 private.mdb
 privatemsg
 private.php
+private.sh
 private.sqlite
 prive
 privmsg
@@ -10458,6 +10485,7 @@ RELEASE_NOTES.txt
 RELEASE_PROCESS.md
 release.properties
 releases
+release.sh
 release.version
 rel/example_project
 religion
@@ -10769,6 +10797,7 @@ sample/
 sample-app
 sample_data.sql
 sample.ini
+sample.payload.json
 sample.pcf
 sample.php
 sampleposteddata.py
@@ -11996,6 +12025,7 @@ systems/
 .system/sitemap.xml
 system_status
 system/storage/
+system_test.sh
 system_web
 System.Web
 System.Web.Http
@@ -12271,7 +12301,9 @@ themes.php
 themes/README.txt
 thickbox
 third_party
+third_party/
 third-party
+THIRD_PARTY
 this
 This directory contains globally useful gitignores,
 thread
