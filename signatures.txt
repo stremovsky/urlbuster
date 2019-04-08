@@ -2716,6 +2716,7 @@ app.json
 app.manifest
 app.php
 app.py
+app.ts
 app.yml
 app.zip
 app/
@@ -4088,6 +4089,7 @@ config.services.yml
 config.sh
 config.sub
 config.toml
+config.ts
 config.txt
 config.w32
 config.xml
@@ -8198,6 +8200,7 @@ index.rst
 index.shtml
 index.tpl
 index.tpl.php
+index.ts
 index.xml
 index/
 index1
@@ -8675,6 +8678,7 @@ lib.cpp
 lib.inc
 lib.php
 lib.rs
+lib.ts
 lib/
 lib/assets
 lib/assets/.gitkeep
@@ -8792,6 +8796,7 @@ load
 load-scripts.php
 load-styles.php
 load.php
+load.ts
 loader
 loader.php
 loader/
@@ -9061,6 +9066,7 @@ main.mdb
 main.php
 main.py
 main.rb
+main.ts
 main.yaml
 main.yml
 main_configure.cgi
@@ -11295,6 +11301,7 @@ run
 run.builder
 run.py
 run.sh
+run.ts
 runserver.py
 runtests.sh
 rus
@@ -11563,6 +11570,7 @@ server.php
 server.pid
 server.py
 server.sql
+server.ts
 server.txt
 server.xml
 server.yaml
@@ -11583,6 +11591,7 @@ service.asmx
 service.pwd
 service.py
 service.test/
+service.ts
 service.xml
 service.yaml
 service.yml
@@ -12282,6 +12291,7 @@ sun
 sun/
 sunos
 super
+super.ts
 super_stats/
 supplier
 supplier/
@@ -12537,6 +12547,7 @@ test.pl
 test.py
 test.sh
 test.sqlite
+test.ts
 test.txt
 test.yaml
 test.yml
@@ -12584,6 +12595,7 @@ testimonials
 testing
 testing/
 tests
+tests.ts
 tests/
 tests/bootstrap.php
 tests/phpunit_report.xml
