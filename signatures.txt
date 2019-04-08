@@ -2586,6 +2586,7 @@ allow/
 alltime
 alog.nsf
 alpha
+alpine
 alt
 alternatives.log
 alumni
@@ -3213,6 +3214,7 @@ billing
 billing/killer.php
 billpay/
 bin
+bin.js
 bin/
 bin/RhoBundle
 bin/config.sh
@@ -3407,12 +3409,14 @@ build-image
 build-image.sh
 build-wep-app-image
 build.gradle
+build.js
 build.local.xml
 build.log
 build.properties
 build.py
 build.sb
 build.sh
+build.ts
 build.xml
 build/Release
 build/build.properties
@@ -3816,8 +3820,10 @@ clear
 clearcookies
 clearpixel
 cli
+cli.js
 cli.php
 cli.sh
+cli.ts
 click
 clickheat
 clickout
@@ -4065,6 +4071,7 @@ config.json
 config.json.cfm
 config.local
 config.m4
+config.map
 config.module
 config.old
 config.permissions.yml
