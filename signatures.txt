@@ -4111,6 +4111,7 @@ config/database.yml.sqlite3
 config/database.yml_original
 config/database.yml~
 config/databases.yml
+config/default.json
 config/deploy.rb
 config/development/
 config/environment.rb
@@ -6633,6 +6634,7 @@ docker-compose.yml
 docker.yaml
 docker.yml
 docker/Dockerfile
+docker/build.sh
 docroot
 docs
 docs.json
@@ -6790,6 +6792,7 @@ ecommerce
 ecosystem.json
 ecrire
 ecs-deploy
+ecs-deploy.sh
 ecs-inventory
 edge
 edgy
@@ -8338,6 +8341,7 @@ intro_image.php
 introduction
 intruvert/
 inventory
+inventory.sh
 inventory/
 investors
 invitado/
@@ -9441,7 +9445,9 @@ modulos
 mojo
 monero
 money
+mongo
 mongo/
+mongodb
 monitor
 monitoring
 monitors
@@ -9724,6 +9730,7 @@ node.tpl.php
 node/add/
 node_modules
 node_modules/
+nodemon.json
 nohup.out
 noindex
 noitems.php
@@ -11061,6 +11068,7 @@ relation.php
 relations.php
 release
 release.js
+release.json
 release.properties
 release.sh
 release.version
@@ -11547,6 +11555,7 @@ server-status/?refresh=5
 server.cfg
 server.db
 server.js
+server.json
 server.key
 server.log
 server.mdb
@@ -12096,6 +12105,8 @@ start-agent-nodejs.sh
 start-api-gateway-local.sh
 start-api-gateway.sh
 start-app.sh
+start-osx.sh
+start-server.sh
 start-web-dashboard-local.sh
 start-web-dashboard.sh
 start.php
@@ -12839,6 +12850,7 @@ trim.php
 true
 trunk
 tryag.php
+tsconfig.build.json
 tsconfig.json
 tslib
 tslint-rules
