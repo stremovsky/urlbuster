@@ -3364,6 +3364,7 @@ bower_components
 bower_components/
 box
 box.json
+box.pom
 boxes
 br
 brace_style.pl
@@ -3830,7 +3831,10 @@ clickout
 clicks
 clicks.php
 client
+client-key.pem
 client.key
+client.pem
+client.pfx
 client.php
 client.py
 client/
@@ -8363,6 +8367,7 @@ invoker/
 invoker/JMXInvokerServlet
 invoker/readonly
 io.pl
+ioc.ts
 ion
 ioncube
 ip
@@ -8972,6 +8977,7 @@ logs/empty
 logs/error.log
 logs/error_log
 logs_console/
+logstash.yml
 logview
 loja
 lol.php
@@ -10427,6 +10433,7 @@ pip-delete-this-directory.txt
 pip-log.txt
 pip-selfcheck.json
 pipe
+pipelines.yml
 pipermail
 piranha
 piranha/
@@ -10696,12 +10703,14 @@ privat
 private
 private.key
 private.mdb
+private.pem
 private.php
 private.sh
 private.sqlite
 private/
 private2
 privateassets
+privatekey.pem
 privatemsg
 prive
 privmsg
@@ -10828,6 +10837,7 @@ pub
 pub/
 public
 public.key
+public.pem
 public/
 public/0.html
 public/4.html
@@ -11308,6 +11318,7 @@ run
 run.builder
 run.py
 run.sh
+run.spec.ts
 run.ts
 runserver.py
 runtests.sh
@@ -11573,6 +11584,7 @@ server.json
 server.key
 server.log
 server.mdb
+server.pem
 server.php
 server.pid
 server.py
@@ -11811,6 +11823,7 @@ site.css
 site.db
 site.log
 site.mdb
+site.pem
 site.php
 site.rar
 site.sql
@@ -12083,6 +12096,8 @@ sshadmin/
 ssi
 ssi/
 ssl
+ssl-key.pem
+ssl.pem
 ssl.private.key
 ssl/
 ssl_check
@@ -12700,6 +12715,7 @@ title_alias.php
 titles
 tl
 tls
+tls.pem
 tmp
 tmp/
 tmp/2.php
@@ -13826,6 +13842,7 @@ webmasters
 webmin/
 webpack.conf.js
 webpack.config.js
+webpack.config.ts
 webpack.server.config.js
 webpages
 webplus
@@ -13836,6 +13853,7 @@ webreps/
 webresource
 websearch
 webserver
+webserver.pem
 webserver.yml
 webservice
 webservice_test.py
@@ -13844,6 +13862,7 @@ webshare/
 webshop
 website
 website.git
+website.pem
 website/
 websites
 websphere
