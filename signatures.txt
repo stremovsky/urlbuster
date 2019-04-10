@@ -3363,6 +3363,7 @@ bower.json
 bower_components
 bower_components/
 box
+box.csr
 box.json
 box.pom
 boxes
@@ -6508,6 +6509,7 @@ detectftproot.php
 deutsch
 dev
 dev-bin
+dev.crs
 dev.ini
 dev.php
 dev/
@@ -6527,6 +6529,7 @@ developers
 development
 development-parts/
 development.config.php
+development.csr
 development.esproj/
 development.ini
 development.log
@@ -9754,6 +9757,9 @@ nohup.out
 noindex
 noitems.php
 nokia
+nomad-ca-key.pem
+nomad-ca.csr
+nomad-ca.pem
 nomad-server.yaml
 none
 none.php
@@ -10744,6 +10750,7 @@ product_thumb
 productdetails
 productimage
 production
+production.csr
 production.json
 production.log
 production.txt
@@ -11578,6 +11585,7 @@ server-status
 server-status/
 server-status/?refresh=5
 server.cfg
+server.csr
 server.db
 server.js
 server.json
@@ -11819,6 +11827,7 @@ site-settings.php
 site-themes.php
 site-users.php
 site.cfg
+site.csr
 site.css
 site.db
 site.log
@@ -12119,6 +12128,7 @@ staff_directory
 stage
 staging
 staging.conf
+staging.csr
 staging.json
 staging.yaml
 stale
@@ -13861,6 +13871,7 @@ webservices
 webshare/
 webshop
 website
+website.csr
 website.git
 website.pem
 website/
