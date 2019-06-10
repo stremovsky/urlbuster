@@ -45,6 +45,8 @@ $tf/
 .arch-internal-preview.css
 .architect
 .autotools
+.aws
+.aws/credentials
 .axoCover/settings.json
 .babelrc
 .bak
@@ -3021,6 +3023,7 @@ awards
 awl
 awmdata
 aws
+aws-profile.yml
 aws-status
 awstats
 awstats.conf
@@ -5997,6 +6000,12 @@ createaccount
 createbutton
 creation
 creator
+credentials.cfg
+credentials.conf
+credentials.inf
+credentials.txt
+credentials.yaml
+credentials.yml
 credit
 credit/
 creditcards
@@ -10030,12 +10039,15 @@ package-cache
 package-lock.json
 package.json
 package.php
+package.yml
 package_test.sh
 packaged
 packageinstaller.php
 packages
 packages.config
 packages.json
+packages.yaml
+packages.yml
 packages/**/src/
 packagexml.py
 packaging
@@ -11507,6 +11519,8 @@ sec/
 seccode
 second
 secondary
+secreets.yaml
+secreets/
 secret
 secret/
 secrets
@@ -11610,6 +11624,7 @@ server_http.hpp
 server_stats
 server_stats/
 serverless
+serverless.yml
 servers
 servers/
 serverstats/
