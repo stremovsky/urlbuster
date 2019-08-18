@@ -11,3 +11,11 @@ Basic web security scanner. This tool is an analog of dirbuster written in go.
 ```
 ./build.sh
 ```
+
+## Adding new signatures to signatures.txt
+
+After making changes to signatures.txt file make sure it is sorted and duplicates removed.
+
+```
+sort -u -o signatures.txt signatures.txt
+```

@@ -4081,6 +4081,7 @@ config.local
 config.m4
 config.map
 config.module
+config.monitoring
 config.old
 config.permissions.yml
 config.php
@@ -6656,6 +6657,7 @@ docker-compose-couch.yaml
 docker-compose.production.yml
 docker-compose.yaml
 docker-compose.yml
+docker-stack.yml
 docker.yaml
 docker.yml
 docker/Dockerfile
@@ -7759,6 +7761,7 @@ grafana.log
 grafana.sh
 grafana.sh.j2
 grafana/
+grafana/config.monitoring
 grafik
 grant
 granted
@@ -10808,6 +10811,7 @@ project/target
 projects
 projectserver/
 prometheus.yml
+prometheus/
 promo
 promos
 promoted
@@ -10912,6 +10916,7 @@ pw_ajax
 pw_api
 pw_app
 pwd
+pwd-stack.yml
 pwd.db
 pwd.inc
 pws.pl
